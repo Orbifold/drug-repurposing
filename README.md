@@ -520,6 +520,8 @@ Books:
 
 - [Computational methods for drug repurposing](https://www.amazon.com/Computational-Methods-Repurposing-Molecular-Biology/dp/1493989545) A compilation of articles for researchers.
 - [Surviving Cancer, COVID-19, and Disease: The Repurposed Drug Revolution](https://www.amazon.com/Surviving-Cancer-COVID-19-Disease-Repurposed/dp/0998055425/) Drug repurpose success story (take it with a bit of salt).
+- [Graph Representation Learning](https://www.amazon.com/Representation-Learning-Synthesis-Artificial-Intelligence/dp/1681739631) Short and well-written overview.
+- [Graph Machine Learning](https://www.amazon.com/Graph-Machine-Learning-techniques-algorithms/dp/1800204493/) Code-first book for developers.
 
 Articles:
 - [Drug repurposing: progress, challenges and recommendations](https://www.nature.com/articles/nrd.2018.168) An easy to read _Nature Reviews_ survey.
